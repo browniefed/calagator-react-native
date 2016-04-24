@@ -2,6 +2,10 @@
 
 This is a calagator app built with React Native. It works on both iOS, and Android.
 
+
+![http://i.imgur.com/loA0P1Q.gif](http://i.imgur.com/loA0P1Q.gif)
+![http://i.imgur.com/ruWLkzX.gif](http://i.imgur.com/ruWLkzX.gif)
+
 #### Install
 
 //Assuming you have react native setup already, get started [https://facebook.github.io/react-native/docs/getting-started.html#content](https://facebook.github.io/react-native/docs/getting-started.html#content)
